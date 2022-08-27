@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d97b3a6a-621b-48d1-91b5-7965703d1cc3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/tenants/staging/kustomization.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/tenants/staging/kustomization.yaml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2DwrV2NbMd3RJFikUQYeHZumiR0" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../squad01" />
+    <property name="settings.editor.selected.configurable" value="Lombok plugin" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/lib/opentracing-playframework" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka-samples-cqrs-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka/shopping-cart/shopping-analytics-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka/shopping-cart/shopping-cart-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka/shopping-cart/shopping-order-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../otel/otel-demo/hotels-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../play-scala-grpc-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../progfun-scala/calculator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../progfun-scala/codecs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../progfun-scala/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../progfun-scala/forcomp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../progfun-scala/funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../progfun-scala/objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../progfun-scala/patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../progfun-scala/quickcheck" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../progfun-scala/recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../progfun-scala/streams" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../reactive-prog/actorbintree" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../reactive-prog/async" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../reactive-prog/followers" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../reactive-prog/kvstore" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../reactive-prog/protocols" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../reactive-prog/streaming" value="PREVIEW" />
+        <entry key="$USER_HOME$/ws/id-generator-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/ws/payu-bin-lookup" value="PREVIEW" />
+        <entry key="$USER_HOME$/ws/tango-alexandria" value="PREVIEW" />
+        <entry key="$USER_HOME$/ws/tango-payments" value="PREVIEW" />
+        <entry key="$USER_HOME$/ws/tango-uts" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d97b3a6a-621b-48d1-91b5-7965703d1cc3" name="Default Changelist" comment="" />
+      <created>1661621007766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661621007766</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
